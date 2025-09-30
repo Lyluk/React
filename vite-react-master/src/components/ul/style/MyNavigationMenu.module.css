@@ -1,0 +1,19 @@
+.logo {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    align-content: center;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
